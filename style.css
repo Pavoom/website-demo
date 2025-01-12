@@ -1,0 +1,54 @@
+* {
+    background-color: rgb(240, 75, 102);
+    /*font-size: 50px;*/
+}
+#three {
+    color: rgb(183, 185, 232);
+    background-color: rgb(2, 255, 55);
+}
+#one{
+    color: rgb(146, 230, 216);
+}
+#two {
+    color: rgb(255, 255, 255);
+}
+.container {
+    background-color: rgb(66, 12, 92);
+    color: rgb(138, 223, 194);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+#box1 {
+    background-color: rgb(189, 86, 86);
+    box-sizing: border-box;
+    width: 100px;
+    height: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+#box2 {
+    background-color: rgb(16, 126, 64);
+    box-sizing: border-box;
+
+    width: 100px;
+    height: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+#box3 {
+    background-color: rgb(19, 37, 114);
+    box-sizing: border-box;
+
+    width: 100px;
+    height: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
